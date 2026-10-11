@@ -1,0 +1,6 @@
+{
+  "name": "Nakshatra Darpana - Celestial Sky & Ephemeris",
+  "description": "Cross-platform real-time sky map application based on Vedic Nakshatras and planetary positions, featuring star asterism shapes, transit push notifications, and a historical astronomical database.",
+  "requestFramePermissions": ["geolocation", "notifications", "camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
